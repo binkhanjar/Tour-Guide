@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- Text For App -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotels">hotels</string>
+    <string name="shopping">shopping</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="text">Text</string>
+
+    <!-- Text For Historical -->
+    <string name="historical">historical</string>
+    <string name="Jerash">Jerash</string>
+    <string name="Ajloun_Castle">Ajloun Castle</string>
+    <string name="Petra">Petra</string>
+    <string name="Roman_Theater">Roman Theater</string>
+    <string name="Amman_Castle">Amman Castle</string>
+    <string name="Amman_Castle_desc">No trip to Amman is complete without a day exploring its nearby desert castles. An insight into early Islamic art and architecture, numerous castles and qasrs are spread out over the arid desert. Mostly built during the Umayyad Caliphate of the 7th to 8th centuries, each has its own unique history from serving as military bases and fortifications, to inns and country estates for wealthy friends of the caliph.</string>
+    <string name="AlKarak_Castle">Al-Karak Castle</string>
+    <string name="petra_det">The ancient city of Petra is one of Jordan’s national treasures and by far its best known tourist attraction. Petra is the legacy of the Nabataeans, an industrious Arab people who settled in southern Jordan more than 2,000 years ago. Admired then for its refined culture, massive architecture and ingenious complex of dams and water channels, Petra is a UNESCO World Heritages Site and one of the new Seven Wonders of the World. Inhabited by the Nabateans, Edomites and Romans, Petra brought together the knowledge and skill of these civilizations to create this world wonder. Caravans laden with incense, silks, spices and other exotic goods would rest at Petra.</string>
+    <string name="jerash_det">Jerash is an amazing blend of Greco-Roman and Oriental influences. A great place to visit during the spring with its beautiful rolling hills and lush greenery, Jerash has a rhythm not seen anywhere else in Jordan. Also, every year Jerash hosts the Jerash Festival of Culture and Arts, a three week summer program filled with folk dance, music, and theatrical performances.</string>
+    <string name="ajloun_det">The marvels of nature and the genius of medieval Arab military architecture have given northern Jordan two of the most important ecological and historical attractions in the Middle East: the sprawling pine forests of the Ajlun-Dibbine area, and the towering Ayyubid castle at Ajlun, which helped to defeat the Crusaders eight centuries ago. Locals often take advantage of the green landscapes of Ajlun to take a break from city life and connect with nature.</string>
+    <string name="roman_theater_det">Amman\'s Roman Theatre is a 6,000-seat, 2nd-century Roman theatre. A famous landmark in the Jordanian capital, it dates back to the Roman period when the city was known as Philadelphia. The theatre and the nearby Odeon are flanking the new Hashemite Plaza from the south and the east respectively, while the Roman Nymphaeum is just a short stroll away in north-westerly direction.</string>
+    <string name="karak_det">Kerak Castle is an example of one of the first castles built by the Franks that used a fortified tower structure and is a notable example of Crusader architecture, a mixture of west European, Byzantine, and Arab designs. Many early Frankish castles that predate Kerak were merely towers built along the crusader states during the early years of crusading. In the second half of the twelfth century, the growing Muslim threat made crusaders update their castle design and prioritize defensive elements.[10] Kerak Castle is a prime example of a spur castle, a castle built on top of a mountain to take advantage of the natural topography, as it is built on the southern end of a plateau surrounded on three sides by steep hills. This had the advantage during a siege of concentrating an attack on only one side of the castle, so the defenders could locate most of their manpower there.[10] Spur castles also took advantage of glacis, a sloping hill that exposed attackers to the defenders.[11] The steep hills around Kerak are characteristic of a glacis.</string>
+
+    <!-- Text For Hotels -->
+    <string name="Rotana_Hotel">Rotana Hotel</string>
+    <string name="Rotana_Hotel_desc">Located in the central business, social and residential destination, Amman’s new downtown, Al Abdali, Amman Rotana offers business travellers and holiday makers alike the serenity and warmth of home as well as the splendour and modern extravagance that can only be offered at Rotana. The hotel is within a 45-minute drive from Queen Alia International Airport..</string>
+    <string name="Royal_Hotel">Royal Hotel</string>
+    <string name="Royal_Hotel_desc">LE ROYAL HOTEL IN AMMAN, JORDAN\n Explore the wonders of Le royal Hotels Resorts- Amman, a luxury destination within the capital city. This premier hotel in Amman, Jordan features breathtaking accommodations and amenities, allowing travelers to relax after a day full of adventures.
+    \nJordan is at once the desert, the depths of Arabia, the hills that undulate towards the Dead Sea and the beauty of the Jordan Valley. The ultimate biblical land, its nature seems to have witnessed the birth of the monotheistic world and civilization itself. From the pink stones of Petra to Roman Amphitheatre in Amman, Jordan unveils its complex history for you to discover</string>
+    <string name="Marriott_hotel_petra">Marriott hotel petra</string>
+    <string name="Marriott_hotel_petra_desc">Enjoy one of the Seven Wonders of the World, the ancient Nabatean city of Petra carved from the rock over a thousand years ago. Embracing traditional hospitality and overlooking Jordans timeless wonder, the Petra Marriott Hotel offers anticipatory  traditional service designed to exceed all expectations. The hotel is a haven for comfort and luxury. </string>
+    <string name="Holiday_inn_dead_sea_hotel">Holiday inn dead sea hotel</string>
+    <string name="Holiday_inn_dead_sea_hotel_desc">A buzzing Dead Sea spa hotel and resort for a family-friendly stay in Jordan\nSoak up the ancient magic of Jordan\'s Dead Sea in contemporary comfort at the Holiday Inn® Resort Dead Sea hotel. A 45-minute drive from Queen Alia International Airport, the 5-star hotel has a sun-drenched private beach whose soft sands are lapped by the healing waters of the world’s most famous salt lake.</string>
+    <string name="Marriott_hotel_dead_sea">Marriott hotel dead sea</string>
+    <string name="Marriott_hotel_dead_sea_desc">A one-of-a-kind vacation awaits you in Jordan at Dead Sea Marriott Resort Spa. \nYou\'ll find our deluxe hotel nestled on the shores of the iconic Dead Sea, a short distance from attractions including Mount Nebo, The Baptism Site, Mujib Reserve and more. Gracefully designed, spacious rooms offer flat-screen TVs, marble bathrooms, ergonomic workspaces, \n high-speed Wi-Fi and incredible Dead Sea views.
+      Savor a meal at one of our several on-site restaurants, break a sweat in the 24-hour fitness center or spend time in our signature hotel</string>
+    <string name="Intercontinental_hotel_aqaba">Intercontinental hotel aqaba</string>
+    <string name="Intercontinental_hotel_aqaba_desc">Perfect for Red Sea holidays and business, this Aqaba resort has a private white-sand beach lapped by turquoise waters. Luxury guestrooms with balconies overlook a lagoon-style pool. Chic restaurants offering different settings that vary between elegant and smart casual. Explore this magical region with the help of our concierge, who can arrange Red Sea snorkeling and diving, a day trips to Petra.
+     \nDowntown Aqaba is a short stroll away, and King Hussein Airport can be reached in 15 minutes.</string>
+
+    <!-- Text For Hotels -->
+    <string name="Boulevard">Boulevard</string>
+    <string name="Boulevard_desc">Located in the heart of the new downtown of Amman, The Boulevard Arjaan by Rotana is a buzzing community within The Boulevard, exclusively developed for the admirers of an ideal lifestyle destination. Within a 45-minute drive from Queen Alia International Airport, The Boulevard Arjaan by Rotana is the place that provides the hotel apartments  guests with a centralised, pedestrian friendly environment in a safe and dynamic location,
+     offering 400 luxurious apartments ranging from studios to three bedroom suites to penthouses; it is a one-of-a-kind accommodation in Amman.</string>
+    <string name="City_Mall">City Mall</string>
+    <string name="City_Mall_desc">
+    City Mall is the City’s Favourite one-stop shopping destination situated in the heart of Amman. It offers a distinctive combination of global brands, restaurants, cafes, banking services, a 10-screen Cineplex, and an exciting family entertainment zone.
+    A unique blend of form and function, City Mall pulsates with life from every corner, as it artistically combines retail and leisure in an elegant, safe, and vibrant setting.</string>
+    <string name="Amman_Center">Amman Center</string>
+    <string name="Amman_Center_desc">It is the old economic and commercial center of Oman from the beginning of the century until the early eighties. It is considered one of the most crowded places in the Kingdom, due to the diversity of the commercial field in it. Al-Salt Street passes through the center of the country, which has important landmarks in the city, and many shops, cafes, agencies, repair workshops, exchange shops, antiques, and eastern bazaars that foreign tourists flock to, reflecting the country s culture, people and history.</string>
+    <string name="Aqaba">Aqaba</string>
+    <string name="Aqaba_desc">Situated on the southern tip of Jordan, approximately 4 hours from the capital of Amman, Aqaba is a beach town with Jordanian appeal. Equipped with the local watering holes, to water sports, and a historical flair for those looking to revisit the past Aqaba is a delightful complement to the metropolitan appeal of Amman.</string>
+    <string name="Jerash_Markets">Jerash Markets</string>
+    <string name="Jerash_Markets_desc">Handicraft shopping at Jerash Artisan MarketA tour inside Jerash archaeological site which includes visiting Jerash Visitors Center Free time in Jerash city which includes the Eastern hammams, the old market and the traditional houses (Wadi Al-Thahab trail)Enjoying lunch alfresco in breezy Jerash</string>
+    <string name="Taj_Mall">Taj Mall</string>
+    <string name="Taj_Mall_desc">Welcome to TAJ lifestyle center, your premium destination for shopping, dining and entertainment in Jordan. TAJ is a multi-purpose shopping complex with over 190 of the finest outlets spread across 150,000 square meters of indoor and outdoor space.</string>
+
+</resources>
